@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Vehicle Rental App</string>
+
+    <string name="open"></string>
+    <string name="close"></string>
+
+    <string-array name="Cities">
+
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Khulna</item>
+        <item>Sylhet</item>
+        <item>Rajshahi</item>
+        <item>Mymensingh</item>
+        <item>Barishal</item>
+        <item>Comilla</item>
+        <item>Rangpur</item>
+        <item>Brahmanbaria</item>
+        <item>Jessore</item>
+        <item>Saidpur</item>
+        <item>Narayanganj</item>
+        <item>Gaibandha</item>
+        <item>Naogaon</item>
+        <item>Munshigonj</item>
+        <item>Gazipur</item>
+        <item>Savar</item>
+        <item>Chadpur</item>
+        <item>Pabna</item>
+        <item>Kustia</item>
+        <item>Panam Nagar</item>
+        <item>Narsingdi</item>
+        <item>Manikganj</item>
+        <item>Jamalpur</item>
+        <item>Jhenaidah</item>
+
+    </string-array>
+
+</resources>
